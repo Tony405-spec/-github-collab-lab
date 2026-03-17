@@ -3,3 +3,5 @@
 
 def hello_world():
     return "Hello from feature-1!"
+def dev_specific_feature():
+    return "This feature is only in dev branch!"
