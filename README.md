@@ -90,4 +90,4 @@ Let's make it visual! First, we need an image to add.
 2. Add this line somewhere in the document:
    ```markdown
    ##  Workflow Visualization
-   ![GitHub Workflow](./github-workflow.png)
+   ![GitHub Workflow](./github-workflow.png).
