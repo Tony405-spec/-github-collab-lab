@@ -2,7 +2,7 @@
 # GitHub Collaboration Lab 
 
 ## About This Project
-This repository serves as a **hands-on learning environment** for mastering GitHub workflows. 
+This repository serves as a **hands-on learning environment** for mastering GitHub workflows. jda
 Created as part of a structured learning path from foundations to advanced DevOps practices.
 
 ## Team Members
